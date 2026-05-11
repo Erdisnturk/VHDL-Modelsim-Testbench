@@ -62,6 +62,6 @@ The testbench:
 ---
 
 ## Author
-
 Erdi Şentürk
-Karlsruhe Institute of Technology (KIT)
+M.Sc. Electrical engineering and information technology at Karlsruhe Institute of Technology (KIT)
+

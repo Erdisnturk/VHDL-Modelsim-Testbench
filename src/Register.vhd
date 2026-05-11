@@ -48,5 +48,3 @@ PROCESS(clk) -- wird durchlaufen, wenn sich das Taktsignal �ndert
 		END IF;       
    	END PROCESS; 
    
-END;
-    
